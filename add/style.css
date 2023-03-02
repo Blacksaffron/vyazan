@@ -1,0 +1,255 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+
+
+
+#body{
+    box-sizing: border-box;
+    display: block;
+    width: 100%;
+    height: auto;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+    background: #f2f3f4;
+
+
+}
+
+
+
+
+
+a{
+    text-decoration: none;
+    color: #1C211D;
+    
+}
+
+
+
+
+
+
+#header{
+    background: url(../add/images/mukuko-studio-mU88MlEFcoU-unsplash\ 2.png) center no-repeat;
+    background-size:cover;
+    height: auto;
+    width: 100%;
+    text-align: center;
+
+}
+
+
+
+
+
+
+#header-inner{
+    display: flex;
+    padding: 60px 0 120px 0;
+    width: 1000px;
+    
+}
+
+
+
+
+
+
+#logo{
+ 
+    margin-top: -30px;
+    margin-right: -2%;
+    margin-left: 0;
+}
+
+
+
+#btn{
+    font-size: 18px;
+}
+
+li{
+    display: inline;
+    margin-inline-start: 20px;
+    margin-inline-end: 20px; 
+}
+
+
+
+#nbr{
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0em;
+    margin-left: 26.2%;
+    margin-right: 0;
+
+}
+
+
+#monohrom{
+    text-align: left;
+    width: 1000px;
+    padding-bottom: 100px;
+
+}
+#text{
+    width: 504px;
+    text-align: left;
+    margin: 0;
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+}
+#new-collection{
+    margin-bottom: 0px;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+h1{
+    margin-bottom: 20px;
+    font-family: Montserrat;
+    font-size: 76px;
+    font-weight: 300;
+    line-height: 93px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+#text{
+    margin-bottom: 25px;
+}
+
+#content{
+    width: 1000px;
+    height:1100px;
+    position: relative;
+
+}
+
+#big-card{
+    width: 61%;
+    padding: 36px 18px 36px 36px;
+    float: left;
+
+}
+#small-card{
+    height: 493px;
+    width: 29%;
+    left: 668px;
+    top: 653px;
+    border-radius: 0px;
+    padding: 36px 36px 53px 0;
+    float: right;
+}
+#card-name{
+    text-decoration:underline;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: 600;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #021433;
+
+}
+
+
+#price{
+    font-family: Montserrat;
+    font-size: 20px;
+    font-weight: 600;
+    line-height: 24px;
+    letter-spacing: -0.13em;
+    color: #021433;
+}
+
+
+
+#second-content{
+    text-align: center;
+    margin-top: 70px;
+    display: block;
+    width: 1000px;
+    margin-bottom: 100px;
+    position: relative;
+    height: 560px;
+
+
+
+
+}
+
+#left{
+    width: 49%;
+    text-align: left;
+    float: left;
+
+
+}
+#text_2{
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-top: 50px;
+
+
+
+}
+
+h2{
+    font-family: Montserrat;
+    font-size: 35px;
+    font-weight: 600;
+    line-height: 43px;
+    letter-spacing: 0em;
+    text-align: left;
+    text-transform: uppercase;
+    margin-bottom: 18px;
+
+
+}
+
+#text_a{
+    font-family: Montserrat;
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+#right{
+    width: 49%;
+    float: right;
+    text-align: left;
+}
+
+#footer{
+    width: 1000px;
+
+}
+#logo_2{
+    float: left;
+    margin-top: -20px;
+    margin-right: 20px;
+}
+#social{
+    float: right;
+    margin-top: -40px;
+    margin-left: 10px;
+}
